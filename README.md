@@ -10,26 +10,40 @@ In this repository I will explain part by part of some drone flight theory and e
 ## PARTS LIST
 For the drone you need:
 * Drone Frame
-* 4 Brushless motors AA2212
-* 4 ESC of 30 Amps
+* 4xBrushless motors AA2212
+* 4xproppellers (2x1045 and 2x1045R)
+* 4xESC of 30 Amps
 * Flight Controller CC3D
 * Arduino PRO Mini or any type of Arduino
 * Lithium Polymer Battery 11.1V 
-* 1 nrf24l01 
+* Nrf24l01 
 
 For the RC you need:
-* 1 nrf24l01
+* Nrf24l01
 * LM7805
 * LD333V
 * Arduino PRO Mini
 * Gyroscope
-* 2 Joysticks 
-* 2 Switches
+* 2xJoysticks 
+* 2xSwitches
 * Condersators
 * Resistors
-* 2 Pushbuttons
+* 2xPushbuttons
 
 ## DRONE
+There are many types of drones. 
+
+I M A G E
+
+I'll be making a quadcopter in HIBRYD-X configuration. Here is the exact direction of rotation on propellers of the HIBRYD-X.
+
+I M A G E
+
+The direction of rotation of the brushless motor depends in the 3 phases conncetion with the ESC. You can find more information about BLDC Motors in https://www.electronicshub.org/brushless-dc-motor-bldc-motor/.
+
+I M A G E
+
+
 ### DRONE ASSEMBLY
 ### DRONE ELECTRONICS
 
