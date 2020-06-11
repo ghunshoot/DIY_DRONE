@@ -3,6 +3,9 @@
 ## INDEX
 
 ## INTRODUCTION
+This project surges of my curiosity and interest in UAV's. Nowdays medium/larges drones and RC Trnasmitters are too much expensive; and the componentes used in are away one click, so the idea of making a DIY drone isn't far from reality. 
+
+In this repository I will explain part by part of some drone flight theory and electronics theory, drone assembly, coding and construction of RC transmitter. The content will be split in three parts: Drone, Drone Comunication and Transmitter Comunication.  
 
 ## PARTS LIST
 For the drone you need:
@@ -28,13 +31,12 @@ For the RC you need:
 
 ## DRONE
 ### DRONE ASSEMBLY
-
 ### DRONE ELECTRONICS
 
-## DRONE RC RECIEVER
-
+## DRONE COMUNICATION
 ### DRONE FLIGHT CONTROLLER SOFTWARE
 
-## RC TRANSMITER
-
+## TRANSMITTER COMUNICATION
 ### RCT
+
+## REFERENCES
