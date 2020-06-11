@@ -35,11 +35,11 @@ There are many types of drones.
 
 I M A G E
 
-I'll be making a quadcopter in HIBRYD-X configuration. Here is the exact direction of rotation on propellers of the HIBRYD-X.
+I'll be making a quadcopter in HIBRYD-X configuration. Here are the standard directions of rotations on propellers of the HIBRYD-X, if you use an other flight controller, you can search or in the setup look for the directions of rotations on propellers and changed with out any problem. In this case the CC3D Flight controller managed the standar configuration.
 
 I M A G E
 
-The direction of rotation of the brushless motor depends in the 3 phases conncetion with the ESC. You can find more information about BLDC Motors in https://www.electronicshub.org/brushless-dc-motor-bldc-motor/.
+The direction of rotation of the brushless motor depends in the 3 phases conncetion with the ESC. You can find more information about BLDC Motors in https://www.electronicshub.org/brushless-dc-motor-bldc-motor/. In my case the following configuration matches with my BLDC motors A2212. If you test them and doesn't follow the direction of rotation, you can inverse two cables, and test what configuration follow the direction you need acordiong to your quadcopetr configuration. 
 
 I M A G E
 
