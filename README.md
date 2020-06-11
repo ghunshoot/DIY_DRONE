@@ -41,7 +41,7 @@ I M A G E
 
 The direction of rotation of the brushless motor depends in the 3 phases conncetion with the ESC. You can find more information about BLDC Motors in https://www.electronicshub.org/brushless-dc-motor-bldc-motor/. 
 
-In my case the following configuration matches with my BLDC motors A2212. If you test them and doesn't follow the direction of rotation, you can inverse two cables, and test what configuration follow the direction you need acordiong to your quadcopetr configuration. 
+In my case the following configuration matches with my BLDC motors A2212. If you test them and doesn't follow the direction of rotation, you can inverse two cables, and test what configuration follow the direction you need acording to your quadcopetr configuration. 
 
 I M A G E
 
